@@ -11,13 +11,8 @@ Briefly describe your Android app and its purpose. Mention that the app connects
 - Android Studio
 - Java
 - MySQL
-- [Any additional libraries or frameworks you might be using]
+
 
 ## Requirements
-- Android device or emulator running Android OS [minimum version required]
+- Android device or emulator running Android OS 
 - MySQL database server running locally or on the network
-
-## Setup Instructions
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
